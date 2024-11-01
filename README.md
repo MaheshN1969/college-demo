@@ -1,3 +1,3 @@
 # college-demo
-Git tutorial repository
+Git tutorial repository <br>
 Author - Mahesh Narayankar
